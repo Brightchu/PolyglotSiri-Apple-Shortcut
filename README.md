@@ -1,6 +1,6 @@
 # PolyglotSiri Apple Shortcut
 
-
+[中文介绍](https://github.com/Munntein/PolyglotSiri-Apple-Shortcut/blob/main/Readme-zh.md)
 
 PolyglotSiri is based on [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) and enhances its multilingual and speech capabilities.
 
