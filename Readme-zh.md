@@ -74,8 +74,7 @@ https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086
 这个快捷方式对语言学习有一定的帮助，但并不完美。存在以下问题：
 
 1. 为什么需要两个OpenAI密钥？
-
-  - 在我的实践中，使用相同的密钥请求whisper和completion API，在很少的几轮内（比如2或3轮），token就会达到完成API限制。分离API密钥可以解决这个问题。然而，我还不太清楚规则是什么，为什么whisper API请求计入了完成token大小。
+   - 在我的实践中，使用相同的密钥请求whisper和completion API，在很少的几轮内（比如2或3轮），token就会达到完成API限制。分离API密钥可以解决这个问题。然而，我还不太清楚规则是什么，为什么whisper API请求计入了完成token大小。
 
 2. 由于需要调用三个API，性能可能不是特别流畅——尤其是如果您需要代理访问这些服务。
 
