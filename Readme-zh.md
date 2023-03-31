@@ -16,7 +16,7 @@ PolyglotSiri 基于 [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) 并
 
 ## 快捷方式链接
 
-https://www.icloud.com/shortcuts/e38bf61856db482a88490fdc00231022
+https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086
 
 
 
@@ -59,7 +59,7 @@ https://www.icloud.com/shortcuts/e38bf61856db482a88490fdc00231022
 
 ## 使用方法
 
-1. 下载 [快捷方式](https://www.icloud.com/shortcuts/e38bf61856db482a88490fdc00231022)。
+1. 下载 [快捷方式](https://www.icloud.com/shortcuts/9bd65fdaf1714ce09f862253d3324086)。
 
 2. 点击快捷方式并等待魔法发生。
 
